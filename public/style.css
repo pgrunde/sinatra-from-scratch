@@ -1,0 +1,12 @@
+#center {
+    width:400px;
+    margin:0 auto;
+    border:2px solid black;
+    padding:10px;
+    border-radius: 5%;
+    background-color: #5fa4ff;
+}
+
+ul {
+    list-style: none;
+}
